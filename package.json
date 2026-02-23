@@ -9,7 +9,7 @@
   "description": "Add a filenames above codeblocks",
   "devDependencies": {},
   "engines": {
-    "gitbook": "3.*"
+    "gitbook": ">=3.0.0"
   },
   "homepage": "https://github.com/aniav/gitbook-plugin-codeblock-label",
   "license": "MIT",
